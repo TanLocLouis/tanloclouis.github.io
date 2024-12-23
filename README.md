@@ -1,4 +1,4 @@
-# tanloclouis.github.io
+# Đánh giá môn học HCMUS
 **Script JS tự động đánh giá môn học trên Portal HCMUS**  
 
 1. Mở Portal ngay trang ```Đánh Giá Môn Học``` có hiển thị danh sách các môn học cần đánh giá.  
